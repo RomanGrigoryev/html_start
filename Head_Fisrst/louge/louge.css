@@ -10,4 +10,15 @@ h1, h2{
 h1{
     border-bottom: 1px solid black;
 }            
-            
+.forh1{
+    font-size: 125px;
+    border-top: 1px;
+    color: rgba(64, 87, 214, 0.384);
+    background-color: rgba(53, 179, 196, 0.637);
+    font-weight: bolder;
+    text-decoration: blink;
+}
+.forp{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
